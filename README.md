@@ -9,11 +9,11 @@ Com relação ao funcionamento do projeto, temos quatro leds, com suas pernas po
 
 # Componentes
 Os componentes utilizados foram:
-•	4 Resistores de 300 ohms
-•	4 Chaves Momentâneas (Push Button)
-•	1 Buzzer
-•	4 Leds de Cores Diferentes
-•	Jumpers (Macho/Macho)
+•	4 Resistores de 300 ohms <br>
+•	4 Chaves Momentâneas (Push Button) <br>
+•	1 Buzzer <br>
+•	4 Leds de Cores Diferentes <br>
+•	Jumpers (Macho/Macho) <br>
 Chegando a um total de aproximadamente 40 reais.
 
 # Fotos e vídeo
