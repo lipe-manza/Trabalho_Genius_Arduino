@@ -5,7 +5,7 @@
 Para o segundo trabalho, fizemos um jogo da memória estilo o jogo Genius. Nele, o jogador precisa apertar os leds na ordem em que aparecem, precisando ganhar 13 rodadas para ganhar o jogo.
 
 # Funcionamento
-Com relação ao funcionamento do projeto, temos quatro leds, com suas pernas positivas ligadas nos resistores que se conectam com os pinos do Arduíno. As pernas negativas dos leds se conectam na parte negativa da protoboard, que se conecta com o GND do arduíno. O mesmo acontece com os botões, com a diferença que suas partes positivas se conectam diretamente no Arduíno, não necessitando de um resistor. O buzzer, por outro lado, tem ambas as suas pernas conectadas direto aos pinos do Arduíno. Depois de conectar todos os componentes na placa e conectá-la ao computador rodando código, os leds começam a piscar até que algum botão seja pressionado. Ao pressionar algum botão, o jogo tem início. 
+Com relação ao funcionamento do projeto, temos quatro leds, com suas pernas positivas se conectam com os pinos do Arduíno. As pernas negativas dos leds se conectam aos resistores que se conectam na parte negativa da protoboard, na qual conecta no GND do Arduíno. O mesmo acontece com os botões, com a diferença que suas partes negativas se conectam diretamente no na parte negativa da protoboard, não necessitando de um resistor. O buzzer, por outro lado, tem ambas as suas pernas conectadas direto aos pinos do Arduíno. Depois de conectar todos os componentes na placa e conectá-la ao computador rodando código, os leds começam a piscar até que algum botão seja pressionado. Ao pressionar algum botão, o jogo tem início. Iniciado o jogo, um led aleatório irá se acender e um barulho específico da cor escolhida sairá do buzzer. O jogador, então, deve apertar o botão que corresponde à cor que apareceu. Caso ele acerte, ela acenderá novamente, porém, agora ela será seguida de uma outra cor aleatória, cabendo ao usuário a tarefa de apertar os botões na ordem correta para completar a sequência. Caso ele erre alguma vez, todo seu progresso se reinciará. Caso consiga 13 sequêcias corretas seguidas, ele ganha o jogo.
 
 # Componentes
 Os componentes utilizados foram:
@@ -17,7 +17,19 @@ Os componentes utilizados foram:
 Chegando a um total de aproximadamente 40 reais.
 
 # Fotos e vídeo
-<img src="URL_da_Imagem" alt="Foto arduíno">
+- Imagens do circuito: <br>
+![Imagem do WhatsApp de 2025-07-02 à(s) 15 25 19_30e72b8f](https://github.com/user-attachments/assets/3f06a334-72fb-4724-99c5-5d77657ca3fc)<br>
+![Imagem do WhatsApp de 2025-07-02 à(s) 15 25 20_0602a146](https://github.com/user-attachments/assets/967844e1-a46f-4383-b237-1814e032aeaf)<br>
+![Imagem do WhatsApp de 2025-07-02 à(s) 15 25 20_1cf81208](https://github.com/user-attachments/assets/33b04dab-3864-40cd-9248-5972c69b5d2c)<br>
+
+
+- Imagem do TinkerCad: <br>
+![image](https://github.com/user-attachments/assets/47a8e2d5-4f6c-4a46-a2b3-6ffd5f76e116)<br>
+
+
+- Vídeo explicativo: <br>
+
+
 
 # Código do arduíno
 ```
