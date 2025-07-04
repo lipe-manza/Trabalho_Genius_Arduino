@@ -28,7 +28,7 @@ Chegando a um total de aproximadamente 40 reais.
 
 
 - Vídeo explicativo: <br>
-
+https://youtu.be/S9dSc1PBdl0
 
 
 # Código do arduíno
