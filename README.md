@@ -79,7 +79,7 @@ Chegando a um total de aproximadamente 40 reais.
 
 // Parâmetros do jogo
 
-#define ROUNDS_TO_WIN      13 // Número de rodadas para vencer o Jogo.
+#define ROUNDS_TO_WIN      3 // Número de rodadas para vencer o Jogo.
 
 #define ENTRY_TIME_LIMIT   3000 // Tempo para pressionar um botão antes que o jogo acabe. 3000ms = 3 seg
 
@@ -676,6 +676,7 @@ void attractMode(void)
 }
 ```
 # Integrantes
+- Matheus Gregório Muniz Arcanjo - 16892051
 - Rafael Said Jannini - 16898162
-- 
+- Luiz Felipe Manzoli Franceschini - 16913300
 
